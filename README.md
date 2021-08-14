@@ -4,3 +4,5 @@
 
 <img width="490" alt="Screenshot 2021-08-14 233311" src="https://user-images.githubusercontent.com/88886687/129456346-ff0eb6a3-0531-4a5a-8a76-04f3f69581c4.png">
 <p>To Find the cases in particular country:</p>
+<img width="490" alt="Screenshot 2021-08-14 233403" src="https://user-images.githubusercontent.com/88886687/129456354-f95bab76-9379-4086-8778-f87456a1b1cd.png">
+
